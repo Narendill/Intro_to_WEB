@@ -55,15 +55,15 @@ li {
 }
 
 .run {
-    background: url(run1.jpg);
+    background: url(img/run1.jpg);
 }
 
 .sleep {
-    background: url(sleep1.jpg);
+    background: url(img/sleep1.jpg);
 }
 
 .bite {
-    background: url(bite1.jpg);
+    background: url(img/bite1.jpg);
 }
 
 .button {
